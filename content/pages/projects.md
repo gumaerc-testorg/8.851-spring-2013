@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: c9d36491-1fa3-f25d-da11-9694b45459cf
 ---
@@ -282,7 +285,7 @@ Partially Quenched Chiral Perturbation Theory.
 {{< tdopen >}}
 
 
-Sharpe, Stephen, and Noam Shoresh. "[Partially Quenched Chiral Perturbation Theory Without φ0](http://arxiv.org/abs/hep-lat/0108003)." _Physical Review_ D64 (2001): 114510.
+Sharpe, Stephen, and Noam Shoresh. "[Partially Quenched Chiral Perturbation Theory Without φ{{< sub "0" >}}](http://arxiv.org/abs/hep-lat/0108003)." _Physical Review_ D64 (2001): 114510.
 
 Golterman, Maarten, Ka Chun Leung. "[Applications of Partially Quenched Chiral Perturbation Theory](http://arxiv.org/abs/hep-lat/9711033)." _Physical Review_ D57 (1998): 5703–10.
 

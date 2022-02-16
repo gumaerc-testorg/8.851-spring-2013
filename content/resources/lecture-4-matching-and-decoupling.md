@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Matching and Decoupling'
 uid: 38e109f3-cafe-da1d-05d1-cf047aa27047
 video_files:
   archive_url: http://www.archive.org/download/MIT8.851S13/MIT8_851S13_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-851-effective-field-theory-spring-2013/f51e1a1e4ba75c22abd7d3e7e804dc05_KwtuwXp16cY.vtt
+  video_captions_file: /courses/8-851-effective-field-theory-spring-2013/f51e1a1e4ba75c22abd7d3e7e804dc05_KwtuwXp16cY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KwtuwXp16cY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-851-effective-field-theory-spring-2013/3f7caaeae716d18c7022dd6f7fe76fcf_KwtuwXp16cY.pdf
+  video_transcript_file: /courses/8-851-effective-field-theory-spring-2013/3f7caaeae716d18c7022dd6f7fe76fcf_KwtuwXp16cY.pdf
 video_metadata:
   youtube_id: KwtuwXp16cY
 ---

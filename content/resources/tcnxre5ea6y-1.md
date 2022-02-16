@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-851-effective-field-theory-spring-2013/ad88d925925b94d33c7cb419a63336b9_TcNXre5Ea6Y.pdf
+file: /media/courses/8-851-effective-field-theory-spring-2013/ad88d925925b94d33c7cb419a63336b9_TcNXre5Ea6Y.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: ad88d925-925b-94d3-3c7c-b419a63336b9

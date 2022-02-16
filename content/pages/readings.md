@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 031f7eab-63e2-0ff8-caf5-9e3240c1b307
 ---
@@ -7,7 +10,7 @@ uid: 031f7eab-63e2-0ff8-caf5-9e3240c1b307
 Text and References
 -------------------
 
-There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics_, but note that it will only be useful for < 20% of the material.
+There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics_, but note that it will only be useful for \< 20% of the material.
 
 *   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with [Google Books](http://books.google.com/books?id=codDQK5OQDIC&printsec=frontcover)\]
 *   Donoghue, John F., Eugene Golowich, et al. _Dynamics of the Standard Model_. Cambridge University Press, 1992. ISBN: 9780521362887.

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7ed94bb4-6e42-9627-2cdb-f812ef69b240
 ---
@@ -55,7 +58,7 @@ Chapter 3
 Chapter 4
 {{< tdclose >}}
 {{< tdopen >}}
-[SCETI Lagrangian (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetlagrania)
+[SCET{{< sub "I" >}} Lagrangian (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetlagrania)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +121,7 @@ Chapter 10
 Chapter 11
 {{< tdclose >}}
 {{< tdopen >}}
-[SCETII Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetiiapplicat)
+[SCET{{< sub "II" >}} Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetiiapplicat)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +130,7 @@ Chapter 11
 Chapter 12
 {{< tdclose >}}
 {{< tdopen >}}
-[More SCETI Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_morescetiappli)
+[More SCET{{< sub "I" >}} Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_morescetiappli)
 {{< tdclose >}}
 
 {{< trclose >}}
