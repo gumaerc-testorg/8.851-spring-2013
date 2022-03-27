@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7ed94bb4-6e42-9627-2cdb-f812ef69b240
 resourcetype: Document
 title: MIT8_851S13_Notes_Ch 5
 uid: 366ec7eb-7c31-fd1b-75c1-3d6837bdb04d

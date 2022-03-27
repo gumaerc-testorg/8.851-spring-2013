@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Soft-Collinear Effective Theory (SCET) Introduction'
 uid: 67b1de51-3a4e-3d8e-acb0-c90f88d55d97
 video_files:
