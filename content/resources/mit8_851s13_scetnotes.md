@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding full set of notes.
-file: /media/courses/8-851-effective-field-theory-spring-2013/e42f16669e30d209bfdd377646b745a3_MIT8_851S13_scetnotes.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/e42f16669e30d209bfdd377646b745a3_MIT8_851S13_scetnotes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: MIT8_851S13_Notes
 uid: e42f1666-9e30-d209-bfdd-377646b745a3
 ---
+This file contains information regarding full set of notes.
+

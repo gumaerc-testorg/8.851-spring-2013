@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -12,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 13: EFT with Fine Tuning'
 uid: 156d6e9a-a5b2-898f-a3fd-b06e40f8b7a6
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed 2-nucleon nonrelativisitic EFT, bubble sums & effective range expansion, fine tuning from RGE flow between fixed pts, and power corrections.
 
 **Instructor:** Prof. Iain Stewart
+
+
+

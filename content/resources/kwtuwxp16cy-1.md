@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-851-effective-field-theory-spring-2013/3f7caaeae716d18c7022dd6f7fe76fcf_KwtuwXp16cY.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/3f7caaeae716d18c7022dd6f7fe76fcf_KwtuwXp16cY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of references for the course along with
+  the schedule of reading assignments for the first part of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,7 +20,7 @@ There is no required textbook. Some of the reading will be taken from the follow
 *   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Publishing Company, 1984. ISBN: 9780805331639. Also [available online](http://www.people.fas.harvard.edu/%7Ehgeorgi/283.html).
 *   Ellis, R. K., W. J. Stirling, et al. _QCD and Collider Physics_. Cambridge University Press, 1996. ISBN: 9780521581899.
 
-The reading assignments below are for Part I of the course. See the [lecture notes section]({{< baseurl >}}/pages/lecture-notes) for notes for Part II.
+The reading assignments below are for Part I of the course. See the {{% resource_link 7ed94bb4-6e42-9627-2cdb-f812ef69b240 "lecture notes section" %}} for notes for Part II.
 
 {{< tableopen >}}
 {{< theadopen >}}

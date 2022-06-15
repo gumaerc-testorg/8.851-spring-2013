@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed linear sigma model & field redefinitions, non-linear Lagrangian & symmetry breaking, Spurion analysis, and started topic of loops.
 
 **Instructor:** Prof. Iain Stewart
+
+
+

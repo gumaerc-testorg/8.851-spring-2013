@@ -1,17 +1,18 @@
 ---
 content_type: page
+description: This section provides a full set of lecture notes on the Soft-Collinear
+  Eff ective Theory (SCET).
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 7ed94bb4-6e42-9627-2cdb-f812ef69b240
 ---
-
 These notes provide reading material on the Soft-Collinear Effective Theory (SCET). They are intended to cover the material studied in Part II of the course.
 
-[Full set of notes for Lectures on the Soft-Collinear Effective Theory in one file (PDF - 1.7MB)]({{< baseurl >}}/resources/mit8_851s13_scetnotes)
+{{% resource_link e42f1666-9e30-d209-bfdd-377646b745a3 "Full set of notes for Lectures on the Soft-Collinear Effective Theory in one file (PDF - 1.7MB)" %}}
 
-[Front Matter, including Table of Contents (PDF)]({{< baseurl >}}/resources/mit8_851s13_content)
+{{% resource_link 0e45a63c-276d-b9bd-13f1-c16cea39b796 "Front Matter, including Table of Contents (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -31,7 +32,7 @@ TOPICS
 Chapter 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit8_851s13_introduction)
+{{% resource_link 4de76f1b-11bd-063b-b341-19ac948e42df "Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Chapter 1
 Chapter 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to SCET (PDF)]({{< baseurl >}}/resources/mit8_851s13_introtoscet)
+{{% resource_link 883b6551-0cb2-c591-9620-ce06efe3228d "Introduction to SCET (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Chapter 2
 Chapter 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Ingredients for SCET (PDF)]({{< baseurl >}}/resources/mit8_851s13_ingrediforscet)
+{{% resource_link 55e3755f-df06-9fc9-6622-17e8e036499e "Ingredients for SCET (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Chapter 3
 Chapter 4
 {{< tdclose >}}
 {{< tdopen >}}
-[SCET{{< sub "I" >}} Lagrangian (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetlagrania)
+{{% resource_link 5c136dd2-b1e3-0612-a9fd-aafd4be06029 "SCET{{< sub \"I\" >}} Lagrangian (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Chapter 4
 Chapter 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Symmetries of SCET (PDF)]({{< baseurl >}}/resources/mit8_851s13_symmetofscet)
+{{% resource_link 366ec7eb-7c31-fd1b-75c1-3d6837bdb04d "Symmetries of SCET (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Chapter 5
 Chapter 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Factorization from Mode Separation (PDF)]({{< baseurl >}}/resources/mit8_851s13_factorfrmodsep)
+{{% resource_link b2b8f3d2-61ab-88e3-c50e-08fab619450c "Factorization from Mode Separation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Chapter 6
 Chapter 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Wilson Coecients and Hard Dynamics (PDF)]({{< baseurl >}}/resources/mit8_851s13_cofficharddyna)
+{{% resource_link 1e6f746b-346d-9b3d-9f35-965872c6eac5 "Wilson Coecients and Hard Dynamics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ Chapter 7
 Chapter 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Deep Inelastic Scattering (PDF)]({{< baseurl >}}/resources/mit8_851s13_deepinelascatt)
+{{% resource_link f3268cc5-d627-ed83-e221-f88c1b3c4937 "Deep Inelastic Scattering (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Chapter 8
 Chapter 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Dijet Production (PDF)]({{< baseurl >}}/resources/mit8_851s13_dijectproducio)
+{{% resource_link b7a69aa9-5f03-9cb9-098f-c2164e2cdc4f "Dijet Production (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Chapter 9
 Chapter 10
 {{< tdclose >}}
 {{< tdopen >}}
-[SCET II (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetii)
+{{% resource_link 6cc1695e-d771-c13f-14fe-cb38b45dc258 "SCET II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ Chapter 10
 Chapter 11
 {{< tdclose >}}
 {{< tdopen >}}
-[SCET{{< sub "II" >}} Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_scetiiapplicat)
+{{% resource_link 5a73e8bb-8f7f-637a-9b3e-b58c5e733e6b "SCET{{< sub \"II\" >}} Applications (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,11 +131,11 @@ Chapter 11
 Chapter 12
 {{< tdclose >}}
 {{< tdopen >}}
-[More SCET{{< sub "I" >}} Applications (PDF)]({{< baseurl >}}/resources/mit8_851s13_morescetiappli)
+{{% resource_link 540919ec-7e99-7453-5c8c-3d20ffc43448 "More SCET{{< sub \"I\" >}} Applications (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-[Appendix (PDF)]({{< baseurl >}}/resources/mit8_851s13_appendix)
+{{% resource_link 9ec2074d-f5af-5583-8c94-527ab6a863e0 "Appendix (PDF)" %}}

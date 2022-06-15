@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed extension to multiple collinear directions, and ultrasoft-collinear factorization via field redefinitions.
 
 **Instructor:** Prof. Iain Stewart
+
+
+
