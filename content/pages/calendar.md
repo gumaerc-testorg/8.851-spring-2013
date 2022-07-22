@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with details on subtopics for each session.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 665838ab-8820-5c03-3ef3-a71a26b549ae
 ---
@@ -208,7 +212,7 @@ Conformal invariance, SU(4) symmetry, calculations with the deuteron bound state
 Soft-Collinear Effective Theory (SCET) Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Degrees of freedom, light cone coordinates, SCETI & SCETII, jets and energetic hadrons, collinear propagators
+Degrees of freedom, light cone coordinates, SCET{{< sub "I" >}} & SCET{{< sub "II" >}}, jets and energetic hadrons, collinear propagators
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,10 +317,10 @@ e+e- to dijets, factorize cross section with measurements, jet function, hemisph
 24
 {{< tdclose >}}
 {{< tdopen >}}
-SCETII
+SCET{{< sub "II" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-Soft-collinear factorization, SCETI to SCETII matching, power counting theorems, γ\*γ -> π0 example
+Soft-collinear factorization, SCET{{< sub "I" >}} to SCET{{< sub "II" >}} matching, power counting theorems, γ\*γ -> π{{< sup "0" >}} example
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +329,7 @@ Soft-collinear factorization, SCETI to SCETII matching, power counting theorems,
 25
 {{< tdclose >}}
 {{< tdopen >}}
-SCETII Rapidity RGE
+SCET{{< sub "II" >}} Rapidity RGE
 {{< tdclose >}}
 {{< tdopen >}}
 B->Dπ example, rapidity divergences, massive sudakov form factor, rapidity RGE

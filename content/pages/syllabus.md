@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, text and references, homework and presentations,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 64bbebc9-ac10-9e13-87b1-2661c885896b
 ---
@@ -30,7 +35,7 @@ Effective field theory is a fundamental framework to describe physical systems w
 Text and References
 -------------------
 
-There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics,_ but note that it will only be useful for < 20% of the material.
+There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics,_ but note that it will only be useful for \< 20% of the material.
 
 *   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with [Google Books](http://books.google.com/books?id=codDQK5OQDIC&printsec=frontcover)\]
 *   Donoghue, John F., Eugene Golowich, et al. _Dynamics of the Standard Model_. Cambridge University Press, 1992. ISBN: 9780521362887.
@@ -38,7 +43,7 @@ There is no required textbook. Some of the reading will be taken from the follow
 *   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Pub. Co, 1984. ISBN: 9780805331639. Also [available online](http://www.people.fas.harvard.edu/%7Ehgeorgi/283.html).
 *   Ellis, R.  K., W. J. Stirling, et al. _QCD and Collider Physics_. Cambridge University Press, 1996. ISBN: 9780521581899.
 
-My [lecture notes]({{< baseurl >}}/pages/lecture-notes) plus assigned readings will serve as your main sources.
+My {{% resource_link 7ed94bb4-6e42-9627-2cdb-f812ef69b240 "lecture notes" %}} plus assigned readings will serve as your main sources.
 
 Homework and Presentations
 --------------------------
@@ -52,7 +57,7 @@ I will create solutions for most problems. In some cases I might use the best an
 
 Having your solution chosen has no bearing on grades.
 
-Finally, I would like each of you to have the opportunity to explore an effective field theory subject on your own and give a short presentation to teach it to the rest of the class. See the [projects]({{< baseurl >}}/pages/projects) section for more details and a list of possible topics, including references to start you off.
+Finally, I would like each of you to have the opportunity to explore an effective field theory subject on your own and give a short presentation to teach it to the rest of the class. See the {{% resource_link c9d36491-1fa3-f25d-da11-9694b45459cf "projects" %}} section for more details and a list of possible topics, including references to start you off.
 
 Grading
 -------
