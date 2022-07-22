@@ -5,6 +5,7 @@ file: /courses/8-851-effective-field-theory-spring-2013/71a37613244bbaf747d066e4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework3.dvi
 uid: 71a37613-244b-baf7-47d0-66e4bff7f6cb
 ---
 This file contains information regarding homework 3.
-

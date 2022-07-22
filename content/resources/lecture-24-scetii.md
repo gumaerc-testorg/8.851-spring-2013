@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed soft-collinear factorization, SCETI to SCETII matching, power counting theorems, and gamma\* gamma -> pi^0 example.
 
 **Instructor:** Prof. Iain Stewart
-
-
 

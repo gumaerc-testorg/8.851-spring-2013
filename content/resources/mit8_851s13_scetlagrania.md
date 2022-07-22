@@ -5,6 +5,7 @@ file: /courses/8-851-effective-field-theory-spring-2013/5c136dd2b1e30612a9fdaafd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT8_851S13_Notes_Ch 4
 uid: 5c136dd2-b1e3-0612-a9fd-aafd4be06029
 ---
 This file contains information regarding chapter 4: SCETI lagrangian.
-
