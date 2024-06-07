@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-851-effective-field-theory-spring-2013/675a005606801865dc78772d12f743f7_pusPy4EDPC0.pdf
+file_size: 92399
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

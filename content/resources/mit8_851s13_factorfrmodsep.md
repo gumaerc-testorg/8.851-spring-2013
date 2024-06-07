@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding chapter 6: factorization from
   mode separation.'
 file: /courses/8-851-effective-field-theory-spring-2013/b2b8f3d261ab88e3c50e08fab619450c_MIT8_851S13_FactorFrModSep.pdf
+file_size: 623370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
