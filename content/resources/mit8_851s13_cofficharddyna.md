@@ -3,6 +3,7 @@ content_type: resource
 description: "This file contains information regarding chapter 7: wilson coe\x0Ecients\
   \ and hard dynamics."
 file: /courses/8-851-effective-field-theory-spring-2013/1e6f746b346d9b3d9f35965872c6eac5_MIT8_851S13_CofficHardDyna.pdf
+file_size: 737183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
