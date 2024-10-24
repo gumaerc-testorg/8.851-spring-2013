@@ -23,49 +23,49 @@ REFERENCES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Finite Temperature QCD: Hard Thermal Loop Effective Theory (HTL)
 {{< tdclose >}}{{< tdopen >}}
-Andersen, Jens O., and M. Strickland. "[Resummation in Hot Field Theories](http://de.arxiv.org/abs/hep-ph/0404164)." _Annals of Physics_ 317 (2005): 281-353.
+Andersen, Jens O., and M. Strickland. "[Resummation in Hot Field Theories](http://arxiv.org/abs/hep-ph/0404164)." *Annals of Physics* 317 (2005): 281-353.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Effective Field Theory for Inflation
 {{< tdclose >}}{{< tdopen >}}
 
-Cheung, Clifford, A. Liam Fitzpatrick, et al. "[The Effective Field Theory of Inflation](http://arxiv.org/abs/0709.0293)." _Journal of High Energy Physics_ 0308 (2008): 14.
+Cheung, Clifford, A. Liam Fitzpatrick, et al. "[The Effective Field Theory of Inflation](http://arxiv.org/abs/0709.0293)." *Journal of High Energy Physics* 0308 (2008): 14.
 
-Weinberg, Steven. "[Effective Field Theory for Inflation](http://arxiv.org/abs/0804.4291)." _Physical Review_ D\_77\_ (2008): 123541.
+Weinberg, Steven. "[Effective Field Theory for Inflation](http://arxiv.org/abs/0804.4291)." *Physical Review* D\_77\_ (2008): 123541.
 
-Burgess, C. P., Hyun Min Lee, et al. "[Power-Counting and the Validity of the Classical Approximation During Inflation](http://arxiv.org/abs/0902.4465)." _Journal of High Energy Physics_ 0909 (2009): 103.
+Burgess, C. P., Hyun Min Lee, et al. "[Power-Counting and the Validity of the Classical Approximation During Inflation](http://arxiv.org/abs/0902.4465)." *Journal of High Energy Physics* 0909 (2009): 103.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Non-Relativistic General Relativity, (NRGR) \[a classical EFT\]
 {{< tdclose >}}{{< tdopen >}}
 
-Goldberger, Walter D., and Ira Z. Rothstein. "[An Effective Field Theory of Gravity for Extended Objects](http://arxiv.org/abs/hep-th/0409156)." _Physical Review Letters_ D73 (2006): 104029.
+Goldberger, Walter D., and Ira Z. Rothstein. "[An Effective Field Theory of Gravity for Extended Objects](http://arxiv.org/abs/hep-th/0409156)." *Physical Review Letters* D73 (2006): 104029.
 
-———. "[Dissipative Effects in the Worldline Approach to Black Hole Dynamics](http://dx.doi.org/10.1103/PhysRevD.73.104030)." _Physical Review Letters_ D73 (2006): 104030.
+———. "[Dissipative Effects in the Worldline Approach to Black Hole Dynamics](http://dx.doi.org/10.1103/PhysRevD.73.104030)." *Physical Review Letters* D73 (2006): 104030.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT for Cosmological Fluids
 {{< tdclose >}}{{< tdopen >}}
 
-Carrasco, John Joseph M., Mark P. Hertzberg, et al. "[The Effective Field Theory of Cosmological Large Scale Structures](http://arxiv.org/abs/1206.2926)." _Journal of High Energy Physics_ 9 (2012): 82.
+Carrasco, John Joseph M., Mark P. Hertzberg, et al. "[The Effective Field Theory of Cosmological Large Scale Structures](http://arxiv.org/abs/1206.2926)." *Journal of High Energy Physics* 9 (2012): 82.
 
-Ballesteros, Guillermo, and Brando Bellazzini. "[Effective Perfect Fluids in Cosmology](http://arxiv.org/abs/1210.1561)." _Journal of Cosmology and Astroparticle Physics_ 04 (2013): 001.
+Ballesteros, Guillermo, and Brando Bellazzini. "[Effective Perfect Fluids in Cosmology](http://arxiv.org/abs/1210.1561)." *Journal of Cosmology and Astroparticle Physics* 04 (2013): 001.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Unstable Particle Effective Theory \[electroweak physics for W, top & QCD\]
 {{< tdclose >}}{{< tdopen >}}
 
-M. Beneke, A. P. Chapovsky, A. Signer, et al. "[Effective Theory Approach to Unstable Particle Production](http://arxiv.org/abs/hep-ph/0312331)." _Physical Review Letters_ 93 (2004): 011602.
+M. Beneke, A. P. Chapovsky, A. Signer, et al. "[Effective Theory Approach to Unstable Particle Production](http://arxiv.org/abs/hep-ph/0312331)." *Physical Review Letters* 93 (2004): 011602.
 
-———. "[Effective Theory Calculation of Resonant High-Energy Scattering](http://arxiv.org/abs/hep-ph/0401002)." _Nuclear Physics_ B686 (2004): 205–47.
+———. "[Effective Theory Calculation of Resonant High-Energy Scattering](http://arxiv.org/abs/hep-ph/0401002)." *Nuclear Physics* B686 (2004): 205–47.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT of a Fermi Surface
 {{< tdclose >}}{{< tdopen >}}
-Polchinski, Joseph. "[Effective Field Theory and the Fermi Surface](http://de.arxiv.org/abs/hep-th/9210046)." Lectures presented at TASI, 1992.
+Polchinski, Joseph. "[Effective Field Theory and the Fermi Surface](http://arxiv.org/abs/hep-th/9210046)." Lectures presented at TASI, 1992.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Chiral EFT for the Weak Interactions of a Heavy Higgs
 {{< tdclose >}}{{< tdopen >}}
-Feruglio, Ferruccio. "[The Chiral Approach to the Electroweak Interactions](http://arxiv.org/abs/hep-ph/9301281)." _International Journal of Modern Physics_ A8 (1993): 4937–72, with the caveat that it's not what nature picked…
+Feruglio, Ferruccio. "[The Chiral Approach to the Electroweak Interactions](http://arxiv.org/abs/hep-ph/9301281)." *International Journal of Modern Physics* A8 (1993): 4937–72, with the caveat that it's not what nature picked…
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Flavor Changing Electroweak Interactions at Low Energy
 {{< tdclose >}}{{< tdopen >}}
@@ -74,41 +74,39 @@ Beyond what was covered in lecture:
 
 Buras, Andrzej J. "[Weak Hamiltonian, CP Violation and Rare Decays](http://arxiv.org/abs/hep-ph/9806471)." (1998).
 
-Buchalla, Gerhard, Andrzej J. Buras, et al. "[Weak Decays Beyond Leading Logarithms](http://arxiv.org/abs/hep-ph/9512380)." _Reviews of Modern Physics_ 68 (1996): 1125–44.
+Buchalla, Gerhard, Andrzej J. Buras, et al. "[Weak Decays Beyond Leading Logarithms](http://arxiv.org/abs/hep-ph/9512380)." *Reviews of Modern Physics* 68 (1996): 1125–44.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 High Density Effective Theory (HDET) for QCD
 {{< tdclose >}}{{< tdopen >}}
 
-Ki Hong, Deog. "[Aspects of High Density Effective Theory in QCD](http://arxiv.org/abs/hep-ph/9905523)." _Nuclear Physics_ B582 (2000): 451–76.
+Ki Hong, Deog. "[Aspects of High Density Effective Theory in QCD](http://arxiv.org/abs/hep-ph/9905523)." *Nuclear Physics* B582 (2000): 451–76.
 
-Schaefer, T. "[Hard Loops, Soft Loops, and High Density Effective Field Theory](http://arxiv.org/abs/hep-ph/0307074)." _Nuclear Physics_ A728, (2003): 251–71.
+Schaefer, T. "[Hard Loops, Soft Loops, and High Density Effective Field Theory](http://arxiv.org/abs/hep-ph/0307074)." *Nuclear Physics* A728, (2003): 251–71.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Finite Density Nucleon EFT
 {{< tdclose >}}{{< tdopen >}}
 
-Furnstahl, R. J., James V. Steele, et al. "[Perturbative Effective Field Theory at Finite Density](http://arxiv.org/abs/nucl-th/9910048)." _Nuclear Physics_ A671 (2000): 396–415.
+Furnstahl, R. J., James V. Steele, et al. "[Perturbative Effective Field Theory at Finite Density](http://arxiv.org/abs/nucl-th/9910048)." *Nuclear Physics* A671 (2000): 396–415.
 
-Furnstahl, R. J., H. -W. Hammer, et al. "[Field Redefinitions at Finite Density](http://arxiv.org/abs/nucl-th/0010078)." _Nuclear Physics_ A689 (2001): 846–68.
+Furnstahl, R. J., H. -W. Hammer, et al. "[Field Redefinitions at Finite Density](http://arxiv.org/abs/nucl-th/0010078)." *Nuclear Physics* A689 (2001): 846–68.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ferromagnets and Antiferromagnets from EFT
 {{< tdclose >}}{{< tdopen >}}
-Leutwyler, H. "[Nonrelativistic Effective Lagrangians](http://arxiv.org/abs/hep-ph/9311264)." _Physical Review_ D49 (1994): 3033–43.
+Leutwyler, H. "[Nonrelativistic Effective Lagrangians](http://arxiv.org/abs/hep-ph/9311264)." *Physical Review* D49 (1994): 3033–43.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Extra Dimensions and KK States as an EFT
 {{< tdclose >}}{{< tdopen >}}
-Csaki, Csaba. "[TASI Lectures on Extra Dimensions and Branes](http://de.arxiv.org/abs/hep-ph/0404096)." (2004).
+Csaki, Csaba. "[TASI Lectures on Extra Dimensions and Branes](http://arxiv.org/abs/hep-ph/0404096)." (2004).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Gauge Mediated Supersymmetry, Integrating out Messengers
 {{< tdclose >}}{{< tdopen >}}
 
-Giudice, G. F., and R. Rattazzi. "[Extracting Supersymmetry-Breaking Effects from Wave-Function Renormalization](http://arxiv.org/abs/hep-ph/9706540)." _Nuclear Physics_ B511 (1998): 25–44.
+Giudice, G. F., and R. Rattazzi. "[Extracting Supersymmetry-Breaking Effects from Wave-Function Renormalization](http://arxiv.org/abs/hep-ph/9706540)." *Nuclear Physics* B511 (1998): 25–44.
 
 John Terning's book "[Modern Supersymmetry](http://www.worldcat.org/title/modern-supersymmetry-dynamics-and-duality/oclc/62132300)."
-
-[Jesse Thaler's tasi lectures](https://physicslearning.colorado.edu/tasi/tasi_2012/tasi_2012.htm)
 
 Bertolini, Daniele, Jesse Thaler, et al. "[TASI 2012: Super-Tricks for Superspace](http://arxiv.org/abs/1302.6229)." (2013).
 
@@ -116,19 +114,19 @@ Bertolini, Daniele, Jesse Thaler, et al. "[TASI 2012: Super-Tricks for Superspac
 Non-Relativistic QCD: Quarkonia Production or Decays, or Velocity Renormalization Group
 {{< tdclose >}}{{< tdopen >}}
 
-Bodwin, Geoffrey T., Eric Braaten, et al. "[Rigorous QCD Analysis of Inclusive Annihilation and Production of Heavy Quarkonium](http://arxiv.org/abs/hep-ph/9407339)." _Physical Review_ D51 (1997): 1125–71.
+Bodwin, Geoffrey T., Eric Braaten, et al. "[Rigorous QCD Analysis of Inclusive Annihilation and Production of Heavy Quarkonium](http://arxiv.org/abs/hep-ph/9407339)." *Physical Review* D51 (1997): 1125–71.
 
-Luke, Michael E., Aneesh V. Manohar, et al. "[Renormalization Group Scaling in Nonrelativistic QCD](http://arxiv.org/abs/hep-ph/9910209)." _Physical Review_ D61 (2000): 074025.
+Luke, Michael E., Aneesh V. Manohar, et al. "[Renormalization Group Scaling in Nonrelativistic QCD](http://arxiv.org/abs/hep-ph/9910209)." *Physical Review* D61 (2000): 074025.
 
-Hoang, A. H., and A. V. Manohar. "[The Threshold t-tbar Cross Section at NNLL Order](http://arxiv.org/abs/hep-ph/0107144)." _Physical Review_ D65 (2001): 014014.
+Hoang, A. H., and A. V. Manohar. "[The Threshold t-tbar Cross Section at NNLL Order](http://arxiv.org/abs/hep-ph/0107144)." *Physical Review* D65 (2001): 014014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Non-Relativistic QED: Hydrogen or Positronium Bound States, Renormalization
 {{< tdclose >}}{{< tdopen >}}
 
-Pineda, Antonio, and J. Soto. "[The Lamb Shift in Dimensional Regularization](http://arxiv.org/abs/hep-ph/9711292)." _Physics Letters_ B420 (1998): 391–6.
+Pineda, Antonio, and J. Soto. "[The Lamb Shift in Dimensional Regularization](http://arxiv.org/abs/hep-ph/9711292)." *Physics Letters* B420 (1998): 391–6.
 
-Manohar, Aneesh V., and Iain W. Stewart. "[Logarithms of Alpha in QED Bound States from the Renormalization Group](http://arxiv.org/abs/hep-ph/0004018)." _Physical Review Letters_ 85 (2000): 2248–51.
+Manohar, Aneesh V., and Iain W. Stewart. "[Logarithms of Alpha in QED Bound States from the Renormalization Group](http://arxiv.org/abs/hep-ph/0004018)." *Physical Review Letters* 85 (2000): 2248–51.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Quantum Gravity in Perturbation Theory
@@ -138,44 +136,44 @@ Quantum Gravity in Perturbation Theory
 Finite Density Nucleon EFT
 {{< tdclose >}}{{< tdopen >}}
 
-Furnstahl, R. J., James V. Steele, et al. "[Perturbative Effective Field Theory at Finite Density](http://arxiv.org/abs/nucl-th/9910048)." _Nuclear Physics_ A671 (2000): 396–415.
+Furnstahl, R. J., James V. Steele, et al. "[Perturbative Effective Field Theory at Finite Density](http://arxiv.org/abs/nucl-th/9910048)." *Nuclear Physics* A671 (2000): 396–415.
 
-Furnstahl, R. J., H. -W. Hammer, et al. "[Field Redefinitions at Finite Density](http://arxiv.org/abs/nucl-th/0010078)." _Nuclear Physics A_ 689 (2001): 846–68.
+Furnstahl, R. J., H. -W. Hammer, et al. "[Field Redefinitions at Finite Density](http://arxiv.org/abs/nucl-th/0010078)." *Nuclear Physics A* 689 (2001): 846–68.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Wess-Zumino Terms in EFT, eg. π0 → γγ in
 {{< tdclose >}}{{< tdopen >}}
 [Georgi's Weak Interactions Book](http://www.people.fas.harvard.edu/~hgeorgi/283.html)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Large Nc QCD, Effective Fields for Counting _Nc's_
+Large Nc QCD, Effective Fields for Counting *Nc's*
 {{< tdclose >}}{{< tdopen >}}
-Manohar, Aneesh V. "[Large N QCD](http://de.arxiv.org/abs/hep-ph/9802419)." (1998).
+Manohar, Aneesh V. "[Large N QCD](http://arxiv.org/abs/hep-ph/9802419)." (1998).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Partially Quenched Chiral Perturbation Theory.
 {{< tdclose >}}{{< tdopen >}}
 
-Sharpe, Stephen, and Noam Shoresh. "[Partially Quenched Chiral Perturbation Theory Without φ](http://arxiv.org/abs/hep-lat/0108003){{< sub "0" >}}." _Physical Review_ D64 (2001): 114510.
+Sharpe, Stephen, and Noam Shoresh. "[Partially Quenched Chiral Perturbation Theory Without φ](http://arxiv.org/abs/hep-lat/0108003){{< sub "0" >}}." *Physical Review* D64 (2001): 114510.
 
-Golterman, Maarten, Ka Chun Leung. "[Applications of Partially Quenched Chiral Perturbation Theory](http://arxiv.org/abs/hep-lat/9711033)." _Physical Review_ D57 (1998): 5703–10.
+Golterman, Maarten, Ka Chun Leung. "[Applications of Partially Quenched Chiral Perturbation Theory](http://arxiv.org/abs/hep-lat/9711033)." *Physical Review* D57 (1998): 5703–10.
 
-Bernard, Claude, and Maarten Golterman. "[Partially Quenched Gauge Theories and a Application to Staggered Fermions](http://arxiv.org/abs/hep-lat/9306005)." _Physical Review_ D49 (1994): 486–94.
+Bernard, Claude, and Maarten Golterman. "[Partially Quenched Gauge Theories and a Application to Staggered Fermions](http://arxiv.org/abs/hep-lat/9306005)." *Physical Review* D49 (1994): 486–94.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT for Quasi-Classical Plasmas
 {{< tdclose >}}{{< tdopen >}}
-Brown, Lowell S., and Laurence G. Yaffe. "[Effective Field Theory for Highly Ionized Plasmas](http://arxiv.org/abs/physics/9911055)." _Physics Reports_ 340 (2001): 1–164.
+Brown, Lowell S., and Laurence G. Yaffe. "[Effective Field Theory for Highly Ionized Plasmas](http://arxiv.org/abs/physics/9911055)." *Physics Reports* 340 (2001): 1–164.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Ultraviolet Fixed Points in Gravity
 {{< tdclose >}}{{< tdopen >}}
-Codello, Alessandro, Roberto Percacci, et al. "[Investigating the Ultraviolet Properties of Gravity with a Wilsonian Renormalization Group Equation](http://arxiv.org/abs/0805.2909)." _Annals of Physics_ 324 (2009): 414–69.
+Codello, Alessandro, Roberto Percacci, et al. "[Investigating the Ultraviolet Properties of Gravity with a Wilsonian Renormalization Group Equation](http://arxiv.org/abs/0805.2909)." *Annals of Physics* 324 (2009): 414–69.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT for Black Holes and the Cosmological Constant
 {{< tdclose >}}{{< tdopen >}}
-Cohen, Andrew G., David B. Kaplan, et al. "[Effective Field Theory, Black Holes, and the Cosmological Constant](http://arxiv.org/abs/hep-th/9803132)." _Physical Review Letters_ 82 (1999): 4971–4.
+Cohen, Andrew G., David B. Kaplan, et al. "[Effective Field Theory, Black Holes, and the Cosmological Constant](http://arxiv.org/abs/hep-th/9803132)." *Physical Review Letters* 82 (1999): 4971–4.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Relativistic Superfluid EFT
 {{< tdclose >}}{{< tdopen >}}
-Son, D. T. "[Low-Energy Quantum Effective Action for Relativistic Superfluids](http://de.arxiv.org/abs/hep-ph/0204199)." (2002).
+Son, D. T. "[Low-Energy Quantum Effective Action for Relativistic Superfluids](http://arxiv.org/abs/hep-ph/0204199)." (2002).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 An Example of EFT from Condensed Matter Physics
 {{< tdclose >}}{{< tdopen >}}
@@ -183,18 +181,18 @@ An Example of EFT from Condensed Matter Physics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Conformal EFT
 {{< tdclose >}}{{< tdopen >}}
-Fitzpatrick, A. Liam, Emanuel Katz, et al. "[Effective Conformal Theory and the Flat-Space Limit of AdS](http://arxiv.org/abs/1007.2412)." _Journal of High Energy Physics_ 1107 (2011): 23.
+Fitzpatrick, A. Liam, Emanuel Katz, et al. "[Effective Conformal Theory and the Flat-Space Limit of AdS](http://arxiv.org/abs/1007.2412)." *Journal of High Energy Physics* 1107 (2011): 23.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT for Cold Atoms
 {{< tdclose >}}{{< tdopen >}}
-Braaten, Eric, and H. -W. Hammer. "[Efimov Physics in Cold Atoms](http://arxiv.org/abs/cond-mat/0612123)." _Annals of Physics_ 322 (2007): 120–63.
+Braaten, Eric, and H. -W. Hammer. "[Efimov Physics in Cold Atoms](http://arxiv.org/abs/cond-mat/0612123)." *Annals of Physics* 322 (2007): 120–63.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 A Lattice QCD EFT: Finite Volume, Finite Lattice Spacing, or Twisted Mass
 {{< tdclose >}}{{< tdopen >}}
 
 Lüscher, Martin. "[Advanced Lattice QCD](http://arxiv.org/abs/hep-lat/9802029)." Lectures given at the Les Houches Summer School 'Probing the Standard Model of Particle Interactions', July 28-September 5, 1997.
 
-Baer, Oliver, Gautam Rupak, et al. "[Chiral perturbation theory at O(a^2) for lattice QCD](http://arxiv.org/abs/hep-lat/0306021)." _Physical Review_ D70 (2004): 034508.
+Baer, Oliver, Gautam Rupak, et al. "[Chiral perturbation theory at O(a^2) for lattice QCD](http://arxiv.org/abs/hep-lat/0306021)." *Physical Review* D70 (2004): 034508.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Chiral Perturbation Theory for Matter fields
@@ -204,18 +202,16 @@ Chiral Perturbation Theory for Matter fields
 Low Energy Goldstino Theorems, Nonlinear Goldstino Representations
 {{< tdclose >}}{{< tdopen >}}
 
-Komargodski, Zohar, and Nathan Seiberg. "[From Linear SUSY to Constrained Superfields](http://arxiv.org/abs/0907.2441)." _Journal of High Energy Physics_ 0909 (2009): 066.
+Komargodski, Zohar, and Nathan Seiberg. "[From Linear SUSY to Constrained Superfields](http://arxiv.org/abs/0907.2441)." *Journal of High Energy Physics* 0909 (2009): 066.
 
 John Terning's book "[Modern Supersymmetry](http://www.worldcat.org/title/modern-supersymmetry-dynamics-and-duality/oclc/62132300)."
-
-[Jesse Thaler's tasi lectures](http://physicslearning.colorado.edu/tasi/)
 
 Bertolini, Daniele, Jesse Thaler, et al. "[TASI 2012: Super-Tricks for Superspace](http://arxiv.org/abs/1302.6229)." (2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Seiberg Duality, Matching the Low Energy Description of Two Theories
 {{< tdclose >}}{{< tdopen >}}
-Seiberg, N. "[Electric-Magnetic Duality in Supersymmetric Non-Abelian Gauge Theories](http://arxiv.org/abs/hep-th/9411149)." _Nuclear Physics_ B435 (1995): 129–46.
+Seiberg, N. "[Electric-Magnetic Duality in Supersymmetric Non-Abelian Gauge Theories](http://arxiv.org/abs/hep-th/9411149)." *Nuclear Physics* B435 (1995): 129–46.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 EFT for Dark Matter Direction Detection
 {{< tdclose >}}{{< tdopen >}}
