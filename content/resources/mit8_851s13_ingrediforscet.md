@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding chapter 3: ingredients for
   SCET.'
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/55e3755fdf069fc9662217e8e036499e_MIT8_851S13_IngrediForScet.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/55e3755fdf069fc9662217e8e036499e_MIT8_851S13_IngrediForScet.pdf
 file_size: 642316
 file_type: application/pdf
 learning_resource_types:
