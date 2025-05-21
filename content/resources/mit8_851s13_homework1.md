@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding homework 1.
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/7734f60f47ca399b1266bb45b10ca591_MIT8_851S13_homework1.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/7734f60f47ca399b1266bb45b10ca591_MIT8_851S13_homework1.pdf
 file_size: 114008
 file_type: application/pdf
 learning_resource_types:

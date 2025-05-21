@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/c5ed97b8ca6c602950d24a9cb45fd0b0_VrXUdbg3NiM.srt
+file: /courses/8-851-effective-field-theory-spring-2013/c5ed97b8ca6c602950d24a9cb45fd0b0_VrXUdbg3NiM.srt
 file_size: 102030
 file_type: application/x-subrip
 learning_resource_types: []

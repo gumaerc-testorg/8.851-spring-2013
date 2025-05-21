@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding chapter 11: SCETII applications.'
 draft: false
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/5a73e8bb8f7f637a9b3eb58c5e733e6b_MIT8_851S13_SCETIIApplicat.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/5a73e8bb8f7f637a9b3eb58c5e733e6b_MIT8_851S13_SCETIIApplicat.pdf
 file_size: 524021
 file_type: application/pdf
 image_metadata:
