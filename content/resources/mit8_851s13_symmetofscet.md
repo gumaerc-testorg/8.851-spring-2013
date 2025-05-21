@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding chapter 5: symmetries of SCET.'
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/366ec7eb7c31fd1b75c13d6837bdb04d_MIT8_851S13_SymmetOfSCET.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/366ec7eb7c31fd1b75c13d6837bdb04d_MIT8_851S13_SymmetOfSCET.pdf
 file_size: 613255
 file_type: application/pdf
 learning_resource_types:

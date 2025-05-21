@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Appendix.
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/9ec2074df5af55838c94527ab6a863e0_MIT8_851S13_Appendix.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/9ec2074df5af55838c94527ab6a863e0_MIT8_851S13_Appendix.pdf
 file_size: 668062
 file_type: application/pdf
 learning_resource_types:

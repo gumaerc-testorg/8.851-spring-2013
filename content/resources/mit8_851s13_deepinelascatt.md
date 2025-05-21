@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding chapter 8: deep inelastic scattering.'
-file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/f3268cc5d627ed83e221f88c1b3c4937_MIT8_851S13_DeepInelaScatt.pdf
+file: /courses/8-851-effective-field-theory-spring-2013/f3268cc5d627ed83e221f88c1b3c4937_MIT8_851S13_DeepInelaScatt.pdf
 file_size: 618338
 file_type: application/pdf
 learning_resource_types:
