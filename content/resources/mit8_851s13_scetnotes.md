@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding full set of notes.
-file: /courses/8-851-effective-field-theory-spring-2013/e42f16669e30d209bfdd377646b745a3_MIT8_851S13_scetnotes.pdf
+file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/e42f16669e30d209bfdd377646b745a3_MIT8_851S13_scetnotes.pdf
 file_size: 1742321
 file_type: application/pdf
 learning_resource_types:

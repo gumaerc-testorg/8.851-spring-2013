@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding chapter 1: introduction.'
-file: /courses/8-851-effective-field-theory-spring-2013/4de76f1b11bd063bb34119ac948e42df_MIT8_851S13_Introduction.pdf
+file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/4de76f1b11bd063bb34119ac948e42df_MIT8_851S13_Introduction.pdf
 file_size: 388778
 file_type: application/pdf
 learning_resource_types:
