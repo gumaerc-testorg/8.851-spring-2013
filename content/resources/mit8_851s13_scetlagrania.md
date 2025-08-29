@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding chapter 4: SCETI lagrangian.'
 draft: false
-file: /courses/8-851-effective-field-theory-spring-2013/5c136dd2b1e30612a9fdaafd4be06029_MIT8_851S13_SCETLagrania.pdf
+file: /ol-ocw-studio-app/courses/8-851-effective-field-theory-spring-2013/5c136dd2b1e30612a9fdaafd4be06029_MIT8_851S13_SCETLagrania.pdf
 file_size: 835329
 file_type: application/pdf
 image_metadata:
