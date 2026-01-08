@@ -37,10 +37,10 @@ Text and References
 
 There is no required textbook. Some of the reading will be taken from the following texts. If you want to buy a book, I suggest _Heavy Quark Physics,_ but note that it will only be useful for \< 20% of the material.
 
-*   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with {{% resource_link "2f628cbd-4da6-409b-9f30-930d2fc3ae71" "Google Books" %}}\]
+*   Manohar, Aneesh Vasant, and Mark B. Wise. _Heavy Quark Physics_. Cambridge University Press, 2007. ISBN: 9780521037570. \[Preview with [Google Books](http://books.google.com/books?id=codDQK5OQDIC&printsec=frontcover)\]
 *   Donoghue, John F., Eugene Golowich, et al. _Dynamics of the Standard Model_. Cambridge University Press, 1992. ISBN: 9780521362887.
 *   Collins, John C. _Renormalization_. Cambridge University Press, 1984. ISBN: 9780521242615.
-*   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Pub. Co, 1984. ISBN: 9780805331639. Also {{% resource_link "ac5c3e7e-867f-4ab0-a352-0ac10d25f872" "available online" %}}.
+*   Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Benjamin/Cummings Pub. Co, 1984. ISBN: 9780805331639. Also [available online](http://www.people.fas.harvard.edu/%7Ehgeorgi/283.html).
 *   Ellis, R.  K., W. J. Stirling, et al. _QCD and Collider Physics_. Cambridge University Press, 1996. ISBN: 9780521581899.
 
 My {{% resource_link 7ed94bb4-6e42-9627-2cdb-f812ef69b240 "lecture notes" %}} plus assigned readings will serve as your main sources.
